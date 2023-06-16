@@ -1,12 +1,12 @@
 {
-    "name": "stafe-group-ab/filament-sticky-panel",
+    "name": "dyksonpradana/filament-sticky-panel",
     "description": "This plugin gives you a right hand side panel in Filament to use for any Livewire component.",
     "keywords": [
         "STAFE-GROUP-AB",
         "laravel",
         "filament-sticky-panel"
     ],
-    "homepage": "https://github.com/stafe-group-ab/filament-sticky-panel",
+    "homepage": "https://github.com/dyksonpradana/filament-sticky-panel",
     "license": "MIT",
     "authors": [
         {
